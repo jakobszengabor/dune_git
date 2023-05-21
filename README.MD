@@ -16,11 +16,9 @@ _Farad'n_
 
 [![Videó cím](https://img.youtube.com/vi/qWK3nkJhneE/0.jpg)](https://www.youtube.com/watch?v=qWK3nkJhneE)
 
-
-Planet | Major Houses 
---- | --- | ---
-Caladan | Atreides
-Guedi Prime | Harkonnen
-Salusa Secundus | Corrino
-Moritani | Grumman
-
+| Planet          | Major Houses |
+| --------------- | ------------ |
+| Caladan         | Atreides     |
+| Guedi Prime     | Harkonnen    |
+| Salusa Secundus | Corrino      |
+| Moritani        | Grumman      |
