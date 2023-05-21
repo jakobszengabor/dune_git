@@ -10,8 +10,17 @@ _Liet-Kynes_
 
 2. **Salusa Secundus**
 
-   "We offer our sincerest condolences on the death of your brother. Perhaps the alliance of our two families will help end the treachery which took his life. Treachery which was bred on Salusa Secundus."
-   
-   _Farad'n_
+"We offer our sincerest condolences on the death of your brother. Perhaps the alliance of our two families will help end the treachery which took his life. Treachery which was bred on Salusa Secundus."
+
+_Farad'n_
 
 [![Videó cím](https://img.youtube.com/vi/qWK3nkJhneE/0.jpg)](https://www.youtube.com/watch?v=qWK3nkJhneE)
+
+
+Planet | Major Houses 
+--- | --- | ---
+Caladan | Atreides
+Guedi Prime | Harkonnen
+Salusa Secundus | Corrino
+Moritani | Grumman
+
