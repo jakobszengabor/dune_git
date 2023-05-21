@@ -19,6 +19,27 @@ _Farad'n_
 | Planet          | Major Houses |
 | --------------- | ------------ |
 | Caladan         | Atreides     |
-| Guedi Prime     | Harkonnen    |
+| Giedi Prime     | Harkonnen    |
 | Salusa Secundus | Corrino      |
 | Moritani        | Grumman      |
+
+---
+
+---
+
+Historical Houses:[^1]
+
+- House Abraham
+- House Bourbon
+- House De Gaulle
+- House Ghandi
+- House Nippon
+- House Steel
+- House Ul-Haq
+- House Washington
+- House Windsor
+- House Zedong
+
+[^1]: As I understand, minor houses are planet bound feifs that are patronized by major or great houses. They organize the peasantry to gather the pubji rice, make the glow globes, ect.
+
+> “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
